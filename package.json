@@ -1,0 +1,20 @@
+{
+  "name": "alura",
+  "version": "1.0.0",
+  "description": "modularizando no javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dario-gms/Alura.git"
+  },
+  "author": "Dario",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/dario-gms/Alura/issues"
+  },
+  "homepage": "https://github.com/dario-gms/Alura#readme"
+}
